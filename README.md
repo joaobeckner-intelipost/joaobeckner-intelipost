@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+## Analista de Desenvolvimento Backend
+
+Desenvolvedor Backend do Time FOX - Routing.
+
+## Principais Skills
+
+* Python
+* Linux
+* MySQL
+* GIT
+
 <!--
 **joaobeckner-intelipost/joaobeckner-intelipost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
